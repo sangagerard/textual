@@ -94,7 +94,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -129,3 +128,5 @@ sandbox/
 
 # Used by mkdocs-material social plugin
 .cache
+config.bat
+node_modules
